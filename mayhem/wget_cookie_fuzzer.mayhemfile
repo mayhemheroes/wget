@@ -1,0 +1,4 @@
+project: PROJECT
+target: wget_cookie_fuzzer
+cmds:
+- cmd: /out/wget_cookie_fuzzer
